@@ -32,7 +32,7 @@ I'm an incoming 4th-year Computer Engineering student at UCSD passionate about S
 
 ### 🤝 Let's Connect
 
-- 💌 Email: joshuamkchoi@gmail.com
+- 💌 Email: jmc008@ucsd.edu
 - 🧠 LinkedIn: [linkedin.com/in/joshuamkchoi](https://www.linkedin.com/in/joshuamkchoi)
 
 ---
