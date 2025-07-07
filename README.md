@@ -4,7 +4,7 @@
 <h3 align="center">📡 Electrical Engineering / Computer Science | AI/ML · SWE · RF</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/joshuamkchoi" target="_blank">
+  <a href="nkedin.com/in/joshua-choi-b12703215/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:jmc008@ucsd.edu">
