@@ -32,7 +32,6 @@ I'm an incoming 4th-year Computer Engineering student at UCSD passionate about S
 
 ### 🤝 Let's Connect
 
-- 🌐 Portfolio: [joshuachoi.dev](https://yourportfolio.com)
 - 💌 Email: joshuamkchoi@gmail.com
 - 🧠 LinkedIn: [linkedin.com/in/joshuamkchoi](https://www.linkedin.com/in/joshuamkchoi)
 
