@@ -18,7 +18,7 @@
 ---
 
 ### 🧠 About Me
-I'm an incoming 4th-year Computer Engineering student at UCSD passionate about SWE, AI/ML, and building fast, intelligent systems. I'm currently working full time as an undergraduate research intern on a project based on AI-based digital pre-distortion (DPD) for power amplifiers.
+I'm an incoming 4th-year Computer Engineering student at UCSD passionate about SWE, AI/ML, and building fast, intelligent systems. I'm currently working full time as an undergraduate research intern on a project based on AI-based digital pre-distortion (DPD) for power amplifiers. I will be doing a 5th year Master of Science in Machine Learning & Data Science.
 
 ---
 
