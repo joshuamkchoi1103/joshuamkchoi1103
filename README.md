@@ -26,7 +26,7 @@ I'm an incoming 4th-year Computer Engineering student at UCSD passionate about S
 
 - 🔬 Researching AI-driven DPD algorithms in the UCSD RFIC Group
 - 💼 Previously interned at **Northrop Grumman** (2023, 2024) as a Software Engineering Intern
-- 📚 Preparing for grad school focused on AI/ML
+- 📚 Preparing for grad school
 
 ---
 
